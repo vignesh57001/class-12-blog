@@ -1,0 +1,22 @@
+body{
+background-color: aqua;
+}
+.box-part{
+    background-color: lightcyan;
+    text-align: center;
+    padding: 20px 15px;
+    margin: 20px 0px;
+}
+
+.fa{
+    color: blue;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+p{
+   font-size: 12px; 
+}
+.box{
+    padding: 40px 0px;
+}
